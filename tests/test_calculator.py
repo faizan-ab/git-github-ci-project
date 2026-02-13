@@ -5,3 +5,8 @@ def test_add():
 
 def test_subtract():
     assert subtract(5, 3) == 2
+
+from app.calculator import multiply
+
+def test_multiply():
+    assert multiply(2, 3) == 6
