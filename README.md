@@ -30,7 +30,6 @@ git-github-ci-project/
 ├── requirements.txt
 └── README.md
 
-
 ---
 
 ## 🔄 Workflow Strategy
@@ -110,15 +109,19 @@ This demonstrates practical Git conflict resolution skills.
 
 ---
 
-## 📈 Resume Highlights
+## 📸 Project Demonstration
 
-- Designed and implemented CI pipeline using GitHub Actions
-- Integrated automated pytest validation on pull requests
-- Implemented feature branching strategy
-- Resolved real merge conflicts
-- Created versioned release (v1.0)
+### CI Pipeline Success
+![CI Success](screenshots/ci-success.png)
 
----
+### Pull Request Validation
+![Pull Request](screenshots/pull-request-merged.png)
+
+### Merge Conflict Resolution
+![Merge Conflict](screenshots/merge-conflict.png)
+
+----
 
 ## 👨‍💻 Author
 Faizan
+
