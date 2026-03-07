@@ -124,5 +124,7 @@ This demonstrates practical Git conflict resolution skills.
 
 ## 👨‍💻 Author
 Mohammed Abdul Faizan
+
 DevOps and Cloud Enthuciast
+
 
