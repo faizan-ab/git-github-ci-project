@@ -15,6 +15,7 @@ This project demonstrates a professional Git workflow using GitHub with automate
 ---
 
 ## 🏗 Project Structure
+```
 git-github-ci-project/
 │
 ├── app/
@@ -29,7 +30,7 @@ git-github-ci-project/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🔄 Workflow Strategy
